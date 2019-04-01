@@ -1,0 +1,3 @@
+To begin, I created a html with a few sections. A non functional nav bar that serves as a holder for logo graphics. In the future, I would add multiple pages as I collect different pieces to put into my portfolio. Next, I created headers that would serve as the main title for the page, with subtext underneath. I styled the name so that it would match the color scheme of the website. During this process, I learned more about accessibility standards in regards to images. Adittionally, I learned about scripts and libraries. I included a web redesign example, along with an extensive CV. All images are my own. 
+
+Scroll-Reveal Script from: https://github.com/codegridweb
